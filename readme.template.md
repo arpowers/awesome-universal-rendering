@@ -221,6 +221,7 @@ Leading to the following techniques:
 ##### Frameworks
 
  - [Nuxt](https://github.com/nuxt/nuxt.js#readme) - Similar to Next.js but for Vue.
+ - [Factor Platform](https://github.com/fiction-com/factor) - Extension-driven SSR platform for the MEVN stack [Site](https://factor.dev).
 !INLINE ./reframe.md --hide-source-path
 
 ##### Libraries
